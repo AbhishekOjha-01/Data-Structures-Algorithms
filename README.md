@@ -7,6 +7,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,16 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
