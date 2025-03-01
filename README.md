@@ -26,6 +26,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 ## Dynamic Programming
 |  |
@@ -39,4 +40,8 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
