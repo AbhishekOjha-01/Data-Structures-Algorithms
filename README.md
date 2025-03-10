@@ -53,4 +53,8 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
