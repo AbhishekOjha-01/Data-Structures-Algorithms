@@ -15,6 +15,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -25,12 +26,14 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0792-binary-search) |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -63,4 +66,8 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
