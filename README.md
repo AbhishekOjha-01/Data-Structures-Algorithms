@@ -72,6 +72,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [1801-average-time-of-process-per-machine](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2087-confirmation-rate) |
 ## Bit Manipulation
 |  |
 | ------- |
