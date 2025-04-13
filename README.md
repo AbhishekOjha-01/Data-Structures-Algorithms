@@ -9,6 +9,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [0007-reverse-integer](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -48,6 +49,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
