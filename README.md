@@ -9,6 +9,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [0007-reverse-integer](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1013-fibonacci-number) |
+| [1500-count-largest-group](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
@@ -16,6 +17,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
+| [1500-count-largest-group](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
