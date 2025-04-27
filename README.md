@@ -44,6 +44,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Dynamic Programming
 |  |
 | ------- |
