@@ -17,6 +17,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 ## Hash Table
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -30,6 +31,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
@@ -40,6 +42,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0792-binary-search) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1656-count-good-triplets) |
