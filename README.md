@@ -46,6 +46,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -105,4 +106,8 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | ------- |
 | [1656-count-good-triplets](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2998-count-symmetric-integers) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
