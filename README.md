@@ -18,6 +18,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1500-count-largest-group](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1500-count-largest-group) |
@@ -41,6 +42,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0792-binary-search) |
@@ -79,6 +81,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Database
 |  |
