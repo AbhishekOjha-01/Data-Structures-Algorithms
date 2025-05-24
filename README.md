@@ -31,6 +31,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3194-find-words-containing-character](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A repository showcasing my solutions to various Data Structures and Algorithms p
 | [2048-build-array-from-permutation](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/2308-divide-array-into-equal-pairs) |
+| [3194-find-words-containing-character](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3321-type-of-triangle) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AbhishekOjha-01/Data-Structures-Algorithms/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
